@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CURSO
+comment1.params=cod\ nom\ fecin
+comment1.target=void\ registrarcurso(int,\ java.lang.String,\ java.lang.String)
+comment2.params=fech
+comment2.target=void\ modificarfecha(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ mostrarnuevafecha()
+comment4.params=
+comment4.target=void\ mostrardatoscurso()
+numComments=5
